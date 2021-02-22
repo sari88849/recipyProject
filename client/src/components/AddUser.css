@@ -1,0 +1,15 @@
+#person{
+    margin-left: 38%;
+    color:  rgb(41, 41, 102);
+}
+
+#bbb{
+    margin-left: 35%;
+    width: 30%;
+    height: 40px;
+}
+
+#bbb:hover{
+    background-color:  rgb(41, 41, 102);
+    color: white;
+}
